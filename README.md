@@ -2,6 +2,8 @@
 
 Bienvenue sur le code source du projet fil rouge **Filmo Patterns**. Ce projet a été réalisé en lien avec le cours **Utilisez des design patterns en JavaScript** sur OpenClassrooms.
 
+https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript/7477341-initiez-vous-aux-design-patterns
+
 ## Prérequis
 
 Aucun ! Le projet a été codé en Vanilla JavaScript, vous n'avez pas besoin de NodeJS ou d'autres outils pour ce projet.
